@@ -1,4 +1,3 @@
-# %%
 import subprocess
 import os
 a = int(input("The range of addresses you want scanned lower: "))
